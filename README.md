@@ -1,11 +1,12 @@
 <h2 align=center>
   ---=== Not Xygen ===---
-
-<p>
-  <p align=center>
+<h2>
+  
+<p align=center>
+  <p>
     Hello, Welcome to my profile
   <p>
-  <p align=center>
+  <p>
     Feel free to browse :) 
   <p>
 <p>
