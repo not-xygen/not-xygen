@@ -1,7 +1,6 @@
-<h2 align=center>
-  ---=== NotXygen ===---
-<h2>
-
+<h1 align=center>
+NotXygen
+<hr>
 <p align=center>
   Hello, Welcome to my profile
 <p align=center>
