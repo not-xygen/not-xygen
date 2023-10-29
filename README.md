@@ -6,7 +6,6 @@ Hello there! I'm Dhaffa Agus, and welcome to my GitHub profile. Feel free to exp
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=not-xygen&show_icons=true&theme=react)
 
 ## Top Languages
-Here are some of the programming languages I frequently use:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=not-xygen&theme=react)
 
 ## About Me
