@@ -4,10 +4,10 @@ Hello there! I'm Dhaffa Agus, and welcome to my GitHub profile. Feel free to exp
 I'm a passionate developer who loves coding. I enjoy experimenting with new technologies and building exciting projects.
 
 ## GitHub Stats
-<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=not-xygen&show_icons=true&theme=react)</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=not-xygen&show_icons=true&theme=react)
 
 ## Top Languages
-<p align="center">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=not-xygen&theme=react)</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=not-xygen&theme=react)
 
 ## Get in Touch
 Let's connect and collaborate on interesting projects. You can reach me through the following channels:
