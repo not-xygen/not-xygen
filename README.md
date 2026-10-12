@@ -57,20 +57,6 @@ const dhaffaagus = {
       <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=ef4444" alt="Axum" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/not-xygen/Portfolio">Portfolio</a></h3>
-      <p>Personal portfolio website with content, i18n and SEO built on Nuxt, Vue and Tailwind.</p>
-      <img src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vuedotjs&logoColor=ef4444" alt="Vue" />
-      <img src="https://img.shields.io/badge/Nuxt-000000?style=flat-square&logo=nuxtdotjs&logoColor=ef4444" alt="Nuxt" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/not-xygen/scanify-monitoring">Scanify Monitoring</a></h3>
-      <p>Monitoring dashboard app for Scanify with charts, tables and live data views.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ef4444" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ef4444" alt="TypeScript" />
-    </td>
-  </tr>
 </table>
 
 
@@ -85,20 +71,6 @@ const dhaffaagus = {
 </picture>
 
 </div>
-
-
-## Stats
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=not-xygen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-xygen&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=ef4444&text_color=c9d1d9" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
 
 
 ## Connect
