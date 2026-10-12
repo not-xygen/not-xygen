@@ -65,13 +65,25 @@ const dhaffaagus = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake.svg?v=2" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg?v=2" width="100%" />
 </picture>
 
 </div>
 
+## Stats
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/not-xygen/not-xygen/output/stats.svg" alt="GitHub stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/not-xygen/not-xygen/output/langs.svg" alt="Top languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
