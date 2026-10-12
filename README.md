@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7f1d1d&height=190&section=header&text=Dhaffa%20Agus&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=NotXygen%20%C2%B7%20Developer%20%C2%B7%20Builder&descSize=18&descAlignY=62" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7f1d1d&height=190&section=header&text=Dhaffa%20Agus&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=aka%20NotXygen%20%C2%B7%20Developer%20%C2%B7%20Builder%20%C2%B7%20Engineer&descSize=18&descAlignY=62" alt="header" width="100%"/>
 
 <a href="https://dhaffaagus.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=ef4444&center=true&vCenter=true&width=520&lines=Building+fast%2C+clean%2C+useful+things;Web+%C2%B7+Mobile+%C2%B7+APIs;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=ef4444&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Dhaffa+Agus;Passionate+about+building+things;Always+trying+out+new+tech;Let's+build+something+awesome+together" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,12 +19,14 @@
 ## ◼ About
 
 ```js
-const dhaffa = {
+const dhaffaagus = {
   handle: "NotXygen",
+  role: "Developer",
   location: "Indonesia 🇮🇩",
-  building: "Personal website → dhaffaagus.netlify.app",
-  learning: ["System design", "Cloud & DevOps", "Open source"],
-  lookingFor: "Collaborations on interesting projects",
+  currentlyBuilding: "Developing & Maintaining ERP on PT Bersinar Jaya Perkasa 🚧",
+  currentlyLearning: ["System Design", "DevOps & Cloud Computing", "IT Infrastructure"],
+  funFact: "I turn coffee into code ☕ → 💻",
+  lookingFor: "Collaborations on interesting projects 🤝",
 };
 ```
 
@@ -34,7 +36,7 @@ const dhaffa = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,go,dart,html,css,sass,react,nextjs,vue,nuxtjs,tailwind,vite,flutter,nodejs,express,mysql,supabase,docker,git,github&theme=dark&perline=11" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,rust,go,dart,html,css,sass,react,nextjs,vue,nuxtjs,tailwind,vite,flutter,nodejs,express,mysql,postgres,supabase,docker,git,github,vitest&theme=dark&perline=12" alt="tech stack" />
 
 <sub>React Native · Mapbox · shadcn/ui · Radix · Zustand · TanStack Query · Framer Motion · Axum · Hapi · tRPC · Zod</sub>
 
