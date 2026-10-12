@@ -65,9 +65,9 @@ const dhaffaagus = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake.svg?v=2" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg?v=2" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake.svg?v=3" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/not-xygen/not-xygen/output/github-snake-dark.svg?v=3" width="100%" />
 </picture>
 
 </div>
