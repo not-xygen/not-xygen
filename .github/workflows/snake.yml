@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -16,6 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Generate stats cards
+        continue-on-error: true   # a stats hiccup must never block the snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_stats.py dist
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
