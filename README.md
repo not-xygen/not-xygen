@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7f1d1d&height=170&section=header&text=Dhaffa%20Agus&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=aka%20NotXygen%20%C2%B7%20Developer%20%C2%B7%20Builder%20%C2%B7%20Engineer&descSize=18&descAlignY=62" alt="header" width="100%"/>
 
-<a href="https://dhaffaagus.netlify.app">
+<a href="https://dhaffaagus.my.id">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=ef4444&center=true&vCenter=true&width=600&height=34&lines=Hi+there!+%F0%9F%91%8B+I'm+Dhaffa+Agus;Passionate+about+building+things;Always+trying+out+new+tech;Let's+build+something+awesome+together" alt="Typing SVG" />
 </a>
 
@@ -88,7 +88,7 @@ const dhaffaagus = {
 ## Connect
 
 <p align="center">
-  <a href="https://dhaffaagus.netlify.app"><img src="https://img.shields.io/badge/Website-ef4444?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" alt="Website" /></a>
+  <a href="https://dhaffaagus.my.id"><img src="https://img.shields.io/badge/Website-ef4444?style=for-the-badge&logoColor=white&labelColor=000000" alt="Website" /></a>
   <a href="mailto:dhaffaagus09@email.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
   <a href="https://linkedin.com/in/dhaffa-agus"><img src="https://img.shields.io/badge/LinkedIn-ef4444?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" /></a>
   <a href="https://twitter.com/dhaffaagus"><img src="https://img.shields.io/badge/Twitter-ef4444?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter" /></a>
